@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/open-store-library/static/css/main.073c9b0a.css",
+    "main.js": "/open-store-library/static/js/main.952c6b12.js",
+    "static/js/787.cee3082b.chunk.js": "/open-store-library/static/js/787.cee3082b.chunk.js",
+    "static/media/logo.svg": "/open-store-library/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/open-store-library/index.html",
+    "main.073c9b0a.css.map": "/open-store-library/static/css/main.073c9b0a.css.map",
+    "main.952c6b12.js.map": "/open-store-library/static/js/main.952c6b12.js.map",
+    "787.cee3082b.chunk.js.map": "/open-store-library/static/js/787.cee3082b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.952c6b12.js"
+  ]
+}
